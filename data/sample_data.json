@@ -1,0 +1,16 @@
+{
+    "scenarios": [
+        {
+            "childcare_costs": "800",
+            "parent1_net_income": "2000",
+            "parent2_net_income": "1800",
+            "expenses": "200"
+        },
+        {
+            "childcare_costs": "1000",
+            "parent1_net_income": "2500",
+            "parent2_net_income": "2500",
+            "expenses": "300"
+        }
+    ]
+}
